@@ -1,5 +1,5 @@
 # casava-disease-torch
-Casava disease prediction using Resnet-50 &amp; PyTorch Lightning on Kaggle GPU
+Casava disease prediction using ResNet-50 &amp; PyTorch Lightning on Kaggle GPU
 
 
 Dataset:
